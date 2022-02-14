@@ -1,8 +1,13 @@
+using RestWithASPNETUdemy.Services;
+using RestWithASPNETUdemy.Services.Implementations;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+// Dependency Injection
+builder.Services.AddScoped<IPersonService, PersonServiceImplementation>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

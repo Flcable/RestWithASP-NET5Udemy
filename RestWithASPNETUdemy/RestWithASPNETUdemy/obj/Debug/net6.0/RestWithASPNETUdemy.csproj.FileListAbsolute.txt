@@ -10,7 +10,6 @@ C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\
 C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net6.0\RestWithASPNETUdemy.csproj.AssemblyReference.cache
 C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net6.0\RestWithASPNETUdemy.GeneratedMSBuildEditorConfig.editorconfig
 C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net6.0\RestWithASPNETUdemy.AssemblyInfoInputs.cache
 C:\Code\RestWithASP-NET5Udemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\net6.0\RestWithASPNETUdemy.AssemblyInfo.cs
